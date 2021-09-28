@@ -1,8 +1,8 @@
 {
-  "name": "ruoyi",
+  "name": "chad",
   "version": "3.7.0",
-  "description": "若依管理系统",
-  "author": "若依",
+  "description": "Chad管理系统",
+  "author": "Chad",
   "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve",
@@ -33,7 +33,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/y_project/RuoYi-Vue.git"
+    "url": "https://gitee.com/y_project/chad-Vue.git"
   },
   "dependencies": {
     "@riophae/vue-treeselect": "0.4.0",
